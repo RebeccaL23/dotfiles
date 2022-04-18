@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rebeccalim23@gmail.com
+	name = Rebecca Lim
